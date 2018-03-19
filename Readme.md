@@ -12,12 +12,6 @@ Allowing you to be aware of issues as they happen on your Magento 2 site.
 * Can uncover hacking attempts 
 * Magento 1 version here - [Raygun 1.0](https://github.com/springtimesoft/springtimesoft_raygun)
 
-## Getting Started
-
-* The Official Raygun error reporting and tracking tool, allowing you to be aware of issues in your Magento 2 site as they happen. 
-
-* Fix bugs proactively when they occur, also a good indicator of possible hacking attempts.
-
 ### Prerequisites
 
 * Composer 
