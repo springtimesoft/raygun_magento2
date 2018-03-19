@@ -58,7 +58,7 @@ composer update
 
 ```
 php bin/magento cache:clean
-php bin/magento setup: upgrade
+php bin/magento setup:upgrade
 ```
 
 ##### Configure the Raygun extension inside the Magento 2 admin :
