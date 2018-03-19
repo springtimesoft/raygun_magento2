@@ -2,7 +2,7 @@
 
 #### The Official Raygun error tracking tool for Magento 2
 
-Allowing you to be aware of issues as they happen on your Magento 2 site. 
+Allowing you to be aware of issues as they happen in your Magento 2 site. 
 
 
 * Immediate registry of errors allows you to fix bugs proactively 
